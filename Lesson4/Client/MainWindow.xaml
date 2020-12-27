@@ -5,16 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Client"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="468.612">
+        Title="Contact table" Height="450" Width="800">
     <Grid>
-        <StackPanel Margin="10" Background="AliceBlue">
-            <Label>Name</Label>
-            <TextBox x:Name="tbName" Padding="10" />
-            <Label>Phone</Label>
-            <TextBox x:Name="tbPhone"  Padding="10" />
-            <Label>Email</Label>
-            <TextBox x:Name="tbEmail" Padding="10" />
-            <Button Width="100" Height="30" Margin="10" Click="Button_Click">Save</Button>
+        <StackPanel Margin="10"  Background="AliceBlue">
+            <Label >
+                Name
+            </Label>
+            <TextBox x:Name="tbName" Padding="10" ></TextBox>
+            <Label >
+                Phone
+            </Label>
+            <TextBox x:Name="tbPhone" Padding="10"></TextBox>
+            <Label >
+                Email
+            </Label>
+            <TextBox x:Name="tbEmail" Padding="10"></TextBox>
+            <DockPanel LastChildFill="False">
+                <Button DockPanel.Dock="Left" Width="100" Height="30" Margin="10" Click="Button_Click">Save</Button>
+                <Button Width="100" Height="30" Margin="10" Click="Button_Click_1">Load/Refresh</Button>
+                <Button DockPanel.Dock="Right" Width="100" Height="30" Margin="10" Click="Button_Click_2">Delete</Button>
+            </DockPanel>
+
+            <Grid Height="150">
+                <ListBox x:Name="list"  ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionChanged="list_SelectionChanged" >
+
+                </ListBox>
+            </Grid>
+
         </StackPanel>
     </Grid>
 </Window>

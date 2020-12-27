@@ -1,19 +1,51 @@
-C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\Server.exe
-C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\DAL.dll
-C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\EntityFramework.dll
-C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\EntityFramework.SqlServer.dll
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\Server.exe.config
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\Server.exe
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\Server.pdb
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\DAL.dll
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\EntityFramework.dll
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\EntityFramework.SqlServer.dll
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\DAL.pdb
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\DAL.dll.config
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\EntityFramework.xml
-E:\IT STEP\13. Network prog\Lesson4\Server\bin\Debug\EntityFramework.SqlServer.xml
-E:\IT STEP\13. Network prog\Lesson4\Server\obj\Debug\Server.csprojAssemblyReference.cache
-E:\IT STEP\13. Network prog\Lesson4\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-E:\IT STEP\13. Network prog\Lesson4\Server\obj\Debug\Server.csproj.CopyComplete
-E:\IT STEP\13. Network prog\Lesson4\Server\obj\Debug\Server.exe
-E:\IT STEP\13. Network prog\Lesson4\Server\obj\Debug\Server.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\Server.exe.config
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\Server.exe
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\Server.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\DAL.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\EntityFramework.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\DAL.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\DAL.dll.config
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\EntityFramework.xml
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\obj\Debug\Server.exe
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\Server\obj\Debug\Server.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\obj\Debug\Server.exe
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\obj\Debug\Server.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\Server.exe.config
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\Server.exe
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\Server.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\DAL.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\EntityFramework.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\DAL.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\DAL.dll.config
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\EntityFramework.xml
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\obj\Debug\Server.csproj.CopyComplete
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\Client.exe
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\Client.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\Server\bin\Debug\Client.exe.config
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\Server.exe.config
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\Server.exe
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\Server.pdb
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\Client.exe
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\DAL.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\EntityFramework.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\Client.pdb
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\Client.exe.config
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\DAL.pdb
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\DAL.dll.config
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\EntityFramework.xml
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\obj\Debug\Server.csproj.CopyComplete
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\obj\Debug\Server.exe
+E:\IT STEP\13. Network prog\Новая папка\CRUD\Server\obj\Debug\Server.pdb

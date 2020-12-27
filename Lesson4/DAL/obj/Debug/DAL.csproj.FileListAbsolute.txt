@@ -1,12 +1,36 @@
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\DAL.dll.config
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\DAL.dll
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\DAL.pdb
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\EntityFramework.dll
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\EntityFramework.SqlServer.dll
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\EntityFramework.xml
-E:\IT STEP\13. Network prog\Lesson4\DAL\bin\Debug\EntityFramework.SqlServer.xml
-E:\IT STEP\13. Network prog\Lesson4\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
-E:\IT STEP\13. Network prog\Lesson4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-E:\IT STEP\13. Network prog\Lesson4\DAL\obj\Debug\DAL.csproj.CopyComplete
-E:\IT STEP\13. Network prog\Lesson4\DAL\obj\Debug\DAL.dll
-E:\IT STEP\13. Network prog\Lesson4\DAL\obj\Debug\DAL.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\DAL.dll.config
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\DAL.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\DAL.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\obj\Debug\DAL.dll
+C:\Users\dev.itstep\Desktop\СПУ926\Project1\DAL\obj\Debug\DAL.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\DAL.dll.config
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\DAL.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\DAL.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\EntityFramework.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\EntityFramework.xml
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\obj\Debug\DAL.dll
+C:\D\Саша\Мережеве програмування\Classwork1\Project1\DAL\obj\Debug\DAL.pdb
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\DAL.dll.config
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\DAL.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\DAL.pdb
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\EntityFramework.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\EntityFramework.xml
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\obj\Debug\DAL.dll
+E:\IT STEP\13. Network prog\Новая папка\CRUD\DAL\obj\Debug\DAL.pdb

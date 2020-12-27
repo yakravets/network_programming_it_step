@@ -1,18 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Server.Model
+namespace DAL.Entity
 {
-    [Serializable]
-    public class ContactDTO
+  public  class Contact
     {
+        [Key]
         public int Id { get; set; }
-        public string Name { get; set; }
+        [Required]
+        public  string  Name  { get; set; }
+        [Required]
+        [MaxLength(10)]
         public string Phone { get; set; }
         public string Email { get; set; }
     }
 }
-

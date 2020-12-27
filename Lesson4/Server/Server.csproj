@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A4E237C8-4210-49B5-A92A-EE068BDD26D7}</ProjectGuid>
+    <ProjectGuid>{E7D274BA-27F1-4682-9FE9-AE6D7F424F33}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Server</RootNamespace>
     <AssemblyName>Server</AssemblyName>
@@ -62,8 +62,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Client\Client.csproj">
+      <Project>{EFE3D95A-F304-40B4-AABD-88AB69B4FCC3}</Project>
+      <Name>Client</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{F09CE7F9-E44D-4F1E-BC79-A102440EEE1F}</Project>
+      <Project>{D8ED0204-27D0-43DF-98B5-F9469EA20EE9}</Project>
       <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>

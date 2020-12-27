@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Server.Model
+namespace Client
 {
     [Serializable]
-    public class ContactDTO
+   public  class ContactDTO
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -15,4 +15,3 @@ namespace Server.Model
         public string Email { get; set; }
     }
 }
-
