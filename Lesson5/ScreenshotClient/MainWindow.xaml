@@ -1,0 +1,23 @@
+﻿<Window x:Class="ScreenshotClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScreenshotClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <Label>Count sended:</Label>
+            <Label Name="count" Content="0"></Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="1">
+            <Button Margin="10" Width="90" Click="Button_Click">Start</Button>
+            <Button Margin="10" Width="90" Click="Button_Click_1">Stop</Button>
+        </StackPanel>
+    </Grid>
+</Window>

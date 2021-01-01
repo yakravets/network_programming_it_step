@@ -1,0 +1,30 @@
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.csprojAssemblyReference.cache
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\App.g.cs
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient_MarkupCompile.cache
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\bin\Debug\ScreenshotClient.exe.config
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\bin\Debug\ScreenshotClient.exe
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\bin\Debug\ScreenshotClient.pdb
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\MainWindow.g.cs
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient_MarkupCompile.lref
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\MainWindow.baml
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.g.resources
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.Properties.Resources.resources
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.csproj.GenerateResource.cache
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.csproj.CoreCompileInputs.cache
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.exe
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.pdb
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\bin\Debug\ScreenshotClient.exe.config
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\bin\Debug\ScreenshotClient.exe
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\bin\Debug\ScreenshotClient.pdb
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.csprojAssemblyReference.cache
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\MainWindow.g.cs
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\App.g.cs
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient_MarkupCompile.cache
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient_MarkupCompile.lref
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\MainWindow.baml
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.g.resources
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.Properties.Resources.resources
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.csproj.GenerateResource.cache
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.csproj.CoreCompileInputs.cache
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.exe
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotClient\obj\Debug\ScreenshotClient.pdb

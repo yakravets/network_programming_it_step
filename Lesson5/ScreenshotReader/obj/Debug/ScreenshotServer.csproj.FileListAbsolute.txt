@@ -1,0 +1,13 @@
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotReader\bin\Debug\ScreenshotReader.exe.config
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotReader\bin\Debug\ScreenshotReader.exe
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotReader\bin\Debug\ScreenshotReader.pdb
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotServer.csproj.CoreCompileInputs.cache
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotReader.exe
+C:\Users\user.itstep\source\repos\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotReader.pdb
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\bin\Debug\ScreenshotReader.exe.config
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\bin\Debug\ScreenshotReader.exe
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\bin\Debug\ScreenshotReader.pdb
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotServer.csprojAssemblyReference.cache
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotServer.csproj.CoreCompileInputs.cache
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotReader.exe
+E:\IT STEP\13. Network prog\ScreenshotReader\ScreenshotReader\obj\Debug\ScreenshotReader.pdb
